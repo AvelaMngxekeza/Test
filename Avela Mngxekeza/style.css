@@ -1,0 +1,42 @@
+body{
+    background-color: aqua;
+}
+
+.form{
+    text-align: left;
+}
+
+.square{
+    height:100px;
+    width: 700px;
+    border-color: black solid 5px;
+    background-color: brown;
+    position: relative;
+    left: 500px;
+}
+
+.square2{
+    height:400px;
+    width: 400px;
+    border-color: black solid 5px;
+    background-color: orangered;
+    position: relative;
+    left: 500px;
+}
+
+.square3{
+    height:400px;
+    width: 400px;
+    border-color: black solid 5px;
+    background-color: pink;
+    position: relative;
+    left: 800px;
+    bottom: 400px;
+}
+
+.first{
+    text-align: center;
+}
+
+
+
